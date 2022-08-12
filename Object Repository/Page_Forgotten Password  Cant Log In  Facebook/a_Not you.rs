@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Not you</name>
+   <tag></tag>
+   <elementGuidId>70114c3f-1a4c-4ce2-b8d6-dd706ffdfb93</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@name='reset_action']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a[name=&quot;reset_action&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>737922e1-9fa2-483d-a1c1-7e1a2aafc9e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>2316d3e1-dc28-4ee9-a8ac-3fb6f43561b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_42ft _4jy0 _9nq1 textPadding13px _4jy3 _517h _51sy</value>
+      <webElementGuid>ec936053-9356-4dd9-a3fe-5f26d6db1a4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>reset_action</value>
+      <webElementGuid>3e46e9f9-8105-44fc-9e74-b184bd8cc557</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/login/notme/?notme_cuid=AYjFI-W0mFrge1RMcCKioCL-nELFLS0tYWM9ZZ9IQk4X6sVvq8K6sBjIAxdHq86x9wVKHJ-frXUDvG06RmbQQ4RrH9AsRe1J1rs4zx9KzQZX6SYSC4Tc7wAdpIHKcGyOHh78tgpXr7M3EM6Ff0RxvKdFllOcoCB1VDPXALOZ1e2_YkwjfAHLDPwNmk3eSD-3mqA&amp;flow=recovery&amp;account_finder_source=account_recovery</value>
+      <webElementGuid>7849e52a-e0af-428a-80d0-eed78447cd81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Not you?</value>
+      <webElementGuid>bf8627c4-77d6-4c58-870b-277ac7eda102</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;initiate_interstitial&quot;)/div[@class=&quot;uiInterstitialBar uiBoxGray topborder&quot;]/div[@class=&quot;clearfix&quot;]/div[@class=&quot;rfloat _ohf&quot;]/a[@class=&quot;_42ft _4jy0 _9nq1 textPadding13px _4jy3 _517h _51sy&quot;]</value>
+      <webElementGuid>0b770748-bfe3-4488-bf7f-241d32e0566b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@name='reset_action']</value>
+      <webElementGuid>087d30de-e11b-45fb-84e2-fbc99f8b756b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='initiate_interstitial']/div[3]/div/div/a</value>
+      <webElementGuid>05958de1-b03a-4860-8ba5-eb7a431f6bc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Not you?')]</value>
+      <webElementGuid>385982f6-6f67-4bbf-bf10-a845867e0ee7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Facebook user'])[1]/following::a[1]</value>
+      <webElementGuid>5d4ceedd-d41b-4d55-b592-7a5c20cfaa2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='bela@mail.com'])[2]/following::a[1]</value>
+      <webElementGuid>17c39203-76e0-47e2-9aa4-47eb40a103b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Continue'])[1]/preceding::a[1]</value>
+      <webElementGuid>c8ad147d-e46f-47f6-9c55-1c7a4f4b1282</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No longer have access to these?'])[1]/preceding::a[1]</value>
+      <webElementGuid>180b0898-c511-4cd5-aa53-31db5bea1d21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Not you?']/parent::*</value>
+      <webElementGuid>6ddbd129-5e6b-497d-b4d9-2e97336e0ccb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/login/notme/?notme_cuid=AYjFI-W0mFrge1RMcCKioCL-nELFLS0tYWM9ZZ9IQk4X6sVvq8K6sBjIAxdHq86x9wVKHJ-frXUDvG06RmbQQ4RrH9AsRe1J1rs4zx9KzQZX6SYSC4Tc7wAdpIHKcGyOHh78tgpXr7M3EM6Ff0RxvKdFllOcoCB1VDPXALOZ1e2_YkwjfAHLDPwNmk3eSD-3mqA&amp;flow=recovery&amp;account_finder_source=account_recovery')]</value>
+      <webElementGuid>05546622-9e4b-4a18-9340-4239be18be85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/a</value>
+      <webElementGuid>a381d646-0518-4460-9db6-cf77503a7854</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@name = 'reset_action' and @href = '/login/notme/?notme_cuid=AYjFI-W0mFrge1RMcCKioCL-nELFLS0tYWM9ZZ9IQk4X6sVvq8K6sBjIAxdHq86x9wVKHJ-frXUDvG06RmbQQ4RrH9AsRe1J1rs4zx9KzQZX6SYSC4Tc7wAdpIHKcGyOHh78tgpXr7M3EM6Ff0RxvKdFllOcoCB1VDPXALOZ1e2_YkwjfAHLDPwNmk3eSD-3mqA&amp;flow=recovery&amp;account_finder_source=account_recovery' and (text() = 'Not you?' or . = 'Not you?')]</value>
+      <webElementGuid>015b9527-ab86-45e3-8129-325bbf7d7120</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
